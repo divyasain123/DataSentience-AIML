@@ -12,6 +12,7 @@ This project aims to classify cars into performance categories — **Sport**, **
   - **Standard**: Moderate all-round performance
 
 ---
+[!ui ss](assets/image.png)
 
 ## 📁 Project Structure
 cars/

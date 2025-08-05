@@ -4,7 +4,7 @@ A machine learning web application that predicts the winner of a professional te
 
 > 🧠 Built using CatBoost and deployed with Streamlit  
 > 📦 Contributed as part of **GirlScript Summer of Code (GSSoC)**  
-> 👤 Contributed by: [@krishgupta2409](https://github.com/krishgupta2409)
+> 👤 Contributed by: [@Krishguptaaa](https://github.com/Krishguptaaa)
 
 ---
 
@@ -30,7 +30,7 @@ A machine learning web application that predicts the winner of a professional te
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try the app](https://tennis-predictor.streamlit.app/)  
+🔗 [Click here to try the app](https://jkwqkwz3pybyncjygrkzcq.streamlit.app/)
 *(Note: Hosted on Streamlit Cloud, may take a few seconds to load)*
 
 ---
@@ -69,4 +69,4 @@ To contribute:
 ## 🙌 Acknowledgements
 
 Special thanks to the mentors and organizers of **GirlScript Summer of Code (GSSoC)** for this opportunity.  
-This project was originally built as a personal ML + deployment project by [@krishgupta2409](https://github.com/krishgupta2409) and later contributed to GSSoC 2025.
+This project was originally built as a personal ML + deployment project by [@Krishguptaaa](https://github.com/Krishguptaaa) and later contributed to GSSoC 2025.

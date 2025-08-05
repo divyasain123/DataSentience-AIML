@@ -35,4 +35,5 @@ The confusion matrix shows strong predictions with minimal misclassifications,
 making this model highly effective for digit recognition tasks.
 
 Author
+
 Shirsha Nag | GSSOC'25 | Contributor

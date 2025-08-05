@@ -3,6 +3,13 @@
 This project predicts the **closing price of gold** based on its opening, high, low prices and trading volume using a regression model.
 
 ---
+sample_input = {
+        "priceOpen": 0.015,
+        "priceHigh": 0.016,
+        "priceLow": 0.014,
+        "volume": 350.0
+    }
+[!ui ss](assets/image.png)
 
 ## 📌 Problem Statement
 

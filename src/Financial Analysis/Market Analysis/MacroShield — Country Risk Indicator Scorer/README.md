@@ -2,6 +2,7 @@
 
 MacroShield classifies countries into **Low**, **Medium**, or **High** macroeconomic risk based on daily financial indicators.
 
+[!ui](assets/image.png)
 ## 🎯 Target
 Daily country-level risk scoring using:
 - Exchange Rate Volatility
@@ -19,4 +20,28 @@ Daily country-level risk scoring using:
 
 1. Install requirements:
 ```bash
-pip install -r requirements.txt
+
+python train_model.py
+
+python predict.py
+
+MacroShield/
+├── data/
+├── models/
+├── preprocess.py
+├── train_model.py
+├── predict.py
+└── README.md
+
+
+---
+
+## 📦 `requirements.txt`
+
+```txt
+pandas
+numpy
+scikit-learn
+joblib
+
+dataset link - https://www.kaggle.com/datasets/mohanz123/zara-fashion-sales-dataset-and-report

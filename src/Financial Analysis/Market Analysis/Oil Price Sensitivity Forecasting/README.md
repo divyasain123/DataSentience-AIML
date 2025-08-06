@@ -1,7 +1,8 @@
 # ⛽ OilSight — Oil Price Sensitivity Forecasting
 
 OilSight predicts the **Oil Price (USD/barrel)** based on macroeconomic signals like interest rates, bond yields, and equity index values.
-
+[!ui](assets/image.png)
+[!ui](assets/Screenshot%202025-08-06%20202201.png)
 ## 🎯 Target
 Predict `Oil_Price(USD_per_bbl)` using:
 - USD Exchange Rate

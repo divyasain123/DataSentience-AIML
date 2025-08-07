@@ -4,6 +4,8 @@ A machine learning pipeline to predict stock prices using Yahoo Finance data, fo
 
 ---
 
+[!ui](assets/image.png)
+
 ## 📊 Project Overview
 
 This project uses a dataset of top stocks extracted from Yahoo Finance and trains a model to estimate the **current stock price** based on:

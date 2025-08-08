@@ -2,6 +2,9 @@
 
 **MultiLingualToxicShield** is a multilingual **toxic/NSFW content detection** toolkit for text prompts and responses.  
 It detects offensive, hateful, or otherwise unsafe language in **multiple languages** (English, Arabic, Hinglish, etc.) using either:
+[!ui](assets/toxicity_by_language.png)
+[!ui](assets/toxicity_pie_chart.png)
+[!ui](assets/image.png)
 
 - **HuggingFace Transformer Models** (default: `cardiffnlp/twitter-xlm-roberta-base-offensive`)  
 - **Keyword-based fallback detector** (lightweight & offline-friendly)

@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project builds a machine learning classification model to predict whether a chemical compound is **active** or **inactive** against a target protein based on molecular and binding features.
-
+[!ui](assets/image.png)
 The goal is to assist researchers in prioritizing compounds for **drug discovery pipelines** by automating the **virtual screening** step.
 
 ---

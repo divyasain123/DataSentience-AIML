@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- PROJECT TITLE AND BADGES -->
 <div align="center" id="top">
   <h1>🌐 <strong>DataSentience-AIML</strong> 💡</h1>
